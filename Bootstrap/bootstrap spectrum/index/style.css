@@ -1,0 +1,97 @@
+.nav-item{
+    margin-right: 70px;
+} 
+ div.portfolio{
+    margin-left: 10%;
+    border: solid white 20px;
+    margin-right: 10%;
+ }
+ .container {
+    display: flex;
+    align-items: center;
+    padding: 100px;
+    flex-wrap: wrap;
+    gap: 50px;
+  }
+  
+  .image {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-right: 20px;
+    border: 9px solid grey;
+    border-radius: 48%;
+    margin-left: 14%;
+  }
+  
+  .paragraph {
+    flex: 1;
+    margin-right: 15%;
+  }
+.talk{
+  margin-left:20% ;
+  margin-right: 20%;
+}  
+input{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.footer{
+  display: flex;
+    align-items: center;
+    padding: 100px;
+    flex-wrap: wrap;
+    gap: 10px;
+    background-color: #808080;
+    margin-top: 20px;
+    color:white;
+}
+.find{
+  flex: 1;
+  margin-right: 15%;
+}
+.right{
+  flex: 1;
+  margin-right: 10%;
+}
+.text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+.carousel-item{
+  background-color:#808080;
+}
+.website{
+  background-color: rgb(127,255,212);
+  padding: 100px;
+  padding-right: 30%;
+  padding-left: 30%;
+  color:white;
+}
+a{
+  text-decoration: none;
+  color: rgba(127,255,212,0.7);
+}
+.buy{
+  background-color: rgb(127,255,212);
+  color: white;
+}
+.buy:hover{
+  background-color: aliceblue;
+}
+form{
+  padding-top: 20px;
+}
+.carousel-caption{
+  font-size: 40px;
+}
+h5{
+  font-size: 100px;
+}
+
